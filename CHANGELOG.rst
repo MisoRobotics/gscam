@@ -2,8 +2,8 @@
 Changelog for package gscam
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.0 (2018-07-30)
+------------------
 * Modifying Makefile to use gstreamer 1.0 instead of 0.1.
 * Contributors: Ryan Sinnet
 
