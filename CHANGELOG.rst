@@ -2,6 +2,11 @@
 Changelog for package gscam
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Modifying Makefile to use gstreamer 1.0 instead of 0.1.
+* Contributors: Ryan Sinnet
+
 1.0.0 (2017-06-13)
 ------------------
 * Gstreamer 1 0 support (`#36 <https://github.com/ros-drivers/gscam/issues/36>`_ )
